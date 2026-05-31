@@ -70,4 +70,3 @@ Business positioning
 Do not fabricate reviews, sales data, customer growth, credentials, claims, metrics, customer feedback, or private customer information. Verify local regulations, platform policies, offer terms, privacy requirements, and advertising claims before publishing.
 
 请勿编造评论、销售数据、获客增长、资质、声明、指标、用户反馈或客户隐私信息。发布前请核实本地法规、平台规则、活动条款、隐私要求和广告声明。
-Open-source AI local business operations skill pack for small shops and service businesses.
